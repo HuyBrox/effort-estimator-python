@@ -1,0 +1,4 @@
+Project,KLOC,ACTUAL_EFFORT,Simple_UC,Average_UC,Complex_UC,Actor_Simple,Actor_Avg,Actor_Complex,TCF,ECF,FP_Input,FP_Output,FP_Query,FP_File,FP_Interface
+Project A,10,30,5,3,2,2,1,1,0.9,1.1,10,8,5,4,2
+Project B,15,45,6,4,3,1,2,1,1.0,1.0,12,10,6,5,3
+Project C,8,20,4,2,1,1,1,0,0.95,1.05,9,7,4,3,1
