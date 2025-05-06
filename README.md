@@ -79,3 +79,6 @@ Script này cho phép bạn thu thập (crawl) các chỉ số phần mềm (nh�
 
 **Tác giả:** Huy Brox
 **Liên hệ:** (https://www.facebook.com/huybrox/)
+**Deploy link**
+[tool: ](https://effort-estimator.streamlit.app/)
+[toolpaw: ](https://effort-tool-paw.streamlit.app/)
